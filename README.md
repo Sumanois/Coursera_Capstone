@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository for the Project in Coorsera by Israel Sumano
+Repository for the Project in Coursera by Israel Sumano
